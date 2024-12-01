@@ -1,0 +1,19 @@
+.mainbg{
+    background-image:url('Rectangle 9.png');
+    /* background-image:url('bg_img_hero.svg'); */
+    /* background-repeat: no-repeat; */
+    /* background-position: top right; */
+
+    
+}
+.orange-bg{
+    background-image:url('bg-image.png');
+    background-size:cover;
+}
+.orangebg{
+    background-image:url('bg-image.png');
+    background-size:cover;
+}
+#orange{
+    background-color:#F9D9AA;
+}
